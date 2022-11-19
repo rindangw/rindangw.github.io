@@ -1,0 +1,96 @@
+@media screen and (max-width:922px){
+    .card-calon{
+        height: 350px;
+    }
+
+    .card-calon:hover{
+        height: 350px;
+    }
+    
+    .card-calon2{
+        height: 350px;
+    }
+
+    .card-calon2:hover{
+        height: 350px;
+    }
+
+    .card-anjuran{
+        height: 500px;
+    }
+
+    .hero-tagline h1{
+        line-height: 52px;
+        font size:20px;
+    }
+
+
+    .hero-tagline p{
+        font-size: 15px;
+    }
+
+    
+}
+
+@media screen and (max-width:576px){
+    .hero-tagline h1{
+        line-height: 52px;
+        font size: 18px;
+    }
+
+
+    .hero-tagline p{
+        font-size: 11px;
+    }
+
+    .img-hero{
+        width:45%;
+        height: auto;
+    }
+
+    .card-calon{
+        margin: 15px 0;
+    }
+
+    .card-anjuran{
+        margin: 15px 0;
+        height: 320px;
+    }
+
+    #lokasi h3{
+        font-size: 18px;
+        line-height: 25px;
+       
+    }
+    
+    #lokasi p{
+        font-size: 15px;
+        line-height: 25px;
+
+    }
+
+    #penutup h3{
+        font-size: 18px;
+        line-height: 25px;
+       
+    }
+    
+    #penutup p{
+        font-size: 15px;
+        line-height: 25px;
+
+    }
+    /* #mempelai h3{
+        font-size: 18px;
+    }
+
+    #mempelai p{
+        font-size: 15px;
+    } */
+
+
+}
+
+@media screen and (max-width:350px){
+    
+}
